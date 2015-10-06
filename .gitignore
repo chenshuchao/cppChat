@@ -1,0 +1,16 @@
+tags
+*.demo
+*swp
+*.out
+*.o
+*.d
+*.ut
+log
+lib*.a
+*_demo
+segdict*
+prior.gbk
+tmp
+t.*
+*.pid
+build
