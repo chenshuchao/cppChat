@@ -15,12 +15,13 @@ cppChat 实现了文字聊天室服务，目前实现功能，登录，注册，
 ### 依赖库
 
 [boost] (version 1.59.0)
+
 [rapidjson]
 
 
 ### 下载和编译
 
-```sh
+```
 git clone https://github.com/chenshuchao/cppChat
 cd cppChat
 mkdir build
@@ -56,6 +57,7 @@ make
 ### todo
 
 支持更多功能, 如多房间，单聊等。
+
 丰富单元测试。
 
 

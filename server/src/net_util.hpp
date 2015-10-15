@@ -1,5 +1,5 @@
-#ifndef HUSKY_NET_UTILS_HPP
-#define HUSKY_NET_UTILS_HPP
+#ifndef CPPCHAT_NETUTILS_HPP
+#define CPPCHAT_NETUTILS_HPP
 
 #include <stdio.h>
 #include <string.h>
